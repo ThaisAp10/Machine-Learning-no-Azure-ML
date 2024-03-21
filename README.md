@@ -22,7 +22,7 @@ Após concluir, fiz a implantação do modelo e aguardei a conclusão.
 
 Após concluído foi feito o teste, e o resultado gerado de acordo com a data e as condições meteorológicas, é que precisava de 433 bicicletas para atender a demanda.
 
-[resultado](img/result.JPG)
+![resultado](img/result.JPG)
 
 ## Conclusão
 
